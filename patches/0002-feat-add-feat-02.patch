@@ -1,7 +1,7 @@
 From 5843dec1786cbcf9879c1b31dd29f4fd69fd1912 Mon Sep 17 00:00:00 2001
 From: BilalMir135 <bilalmir135@gmail.com>
 Date: Sun, 29 Jan 2023 20:47:00 +0500
-Subject: [PATCH] feat: add feat:02
+Subject: [PATCH 2/3] feat: add feat:02
 
 ---
  index.js | 2 ++
